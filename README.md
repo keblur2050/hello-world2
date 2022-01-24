@@ -1,2 +1,3 @@
-# hello-world2
-A test for our hello world exercises
+These are the changes that we are making
+Changes 
+Turn and face the strange
